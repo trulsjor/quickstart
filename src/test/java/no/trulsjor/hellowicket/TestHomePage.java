@@ -1,4 +1,7 @@
-package no.trulsjor;
+package no.trulsjor.hellowicket;
+
+import no.trulsjor.hellowicket.HomePage;
+import no.trulsjor.hellowicket.WicketApplication;
 
 import org.apache.wicket.util.tester.WicketTester;
 import org.junit.Before;

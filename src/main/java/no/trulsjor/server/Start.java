@@ -1,3 +1,4 @@
+package no.trulsjor.server;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;
@@ -21,5 +22,6 @@ public class Start {
 		server.setHandler(root);
 		server.start();
 		server.join();
+
 	}
 }

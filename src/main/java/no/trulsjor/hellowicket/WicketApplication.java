@@ -1,4 +1,4 @@
-package nl.topicus.heroku.wicket;
+package no.trulsjor.hellowicket;
 
 import org.apache.wicket.protocol.http.WebApplication;
 

@@ -21,7 +21,7 @@
 		<filter-class>org.apache.wicket.protocol.http.WicketFilter</filter-class>
 		<init-param>
 			<param-name>applicationClassName</param-name>
-			<param-value>nl.topicus.heroku.wicket.WicketApplication</param-value>
+			<param-value>no.trulsjor.hellowicket.WicketApplication</param-value>
 		</init-param>
 	</filter>
 
